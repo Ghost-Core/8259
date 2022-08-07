@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <History>True|2022-03-14T07:25:08.1059432Z;False|2022-03-14T00:35:24.4061745-04:00;False|2022-03-14T00:34:30.6187546-04:00;</History>
+    <_PublishTargetUrl>C:\Users\ganji\Desktop\Winter 2022\8259\OnlineService</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/restaurant_review.xml">
+      <publishTime>03/14/2022 02:48:43</publishTime>
+    </File>
+    <File Include="bin/App_Data/restaurant_review.xml">
+      <publishTime>03/14/2022 02:48:43</publishTime>
+    </File>
+    <File Include="bin/Lab6.dll">
+      <publishTime>03/14/2022 03:25:07</publishTime>
+    </File>
+    <File Include="bin/Lab6.pdb">
+      <publishTime>03/14/2022 03:25:07</publishTime>
+    </File>
+    <File Include="RestaurantReviewService.svc">
+      <publishTime>03/13/2022 23:48:07</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/14/2022 03:25:07</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
